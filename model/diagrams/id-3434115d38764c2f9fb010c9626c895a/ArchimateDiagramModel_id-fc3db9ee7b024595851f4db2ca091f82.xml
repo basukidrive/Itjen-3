@@ -10,7 +10,7 @@
         x="48"
         y="444"
         width="157"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c69060a9c4e140719e2faf559510a706.xml#id-c69060a9c4e140719e2faf559510a706"/>
@@ -22,7 +22,7 @@
         x="228"
         y="444"
         width="157"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-da66d12c216a4512aeae714bb61fb16d.xml#id-da66d12c216a4512aeae714bb61fb16d"/>
@@ -34,7 +34,7 @@
         x="408"
         y="444"
         width="157"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-d3e27b6bf0f6417d9a2cbb316f72cca1.xml#id-d3e27b6bf0f6417d9a2cbb316f72cca1"/>
@@ -46,7 +46,7 @@
         x="588"
         y="444"
         width="157"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-86460b4449e54d078ec38833299f7fd0.xml#id-86460b4449e54d078ec38833299f7fd0"/>
@@ -58,7 +58,7 @@
         x="768"
         y="444"
         width="157"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-52fd031be32a45a88e920788554915b6.xml#id-52fd031be32a45a88e920788554915b6"/>
