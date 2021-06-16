@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1 Application Portfolio"
-    id="id-26c2e5f965d04f688060a593f53b002e"/>
+    id="id-26c2e5f965d04f688060a593f53b002e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c9884bfb980a45fcb3c93f95be918ce2"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c3c445cda91d4a569c5eca5cdc9c5499"
+        source="id-c9884bfb980a45fcb3c93f95be918ce2"
+        target="id-f27b84805c1749d9b17ee149e335a912">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-931285ff38314dc1bc017d330dbf6534.xml#id-931285ff38314dc1bc017d330dbf6534"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="24"
+        width="289"
+        height="181"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f27b84805c1749d9b17ee149e335a912"
+        targetConnections="id-c3c445cda91d4a569c5eca5cdc9c5499">
+      <bounds
+          x="12"
+          y="36"
+          width="97"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-bd656ba11bdc4dfa9f401ad01a57028e.xml#id-bd656ba11bdc4dfa9f401ad01a57028e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-57fb1f91faa844bc83670d6cff2084d0.xml#id-57fb1f91faa844bc83670d6cff2084d0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4b0da69e0ec44dbf99e1aab6abb3a6d6"
+      textAlignment="1">
+    <bounds
+        x="360"
+        y="24"
+        width="409"
+        height="181"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-f9d1a02a5c4146308f86efc50710543c.xml#id-f9d1a02a5c4146308f86efc50710543c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
