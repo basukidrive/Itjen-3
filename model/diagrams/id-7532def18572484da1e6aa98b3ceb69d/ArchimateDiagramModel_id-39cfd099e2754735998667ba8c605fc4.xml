@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4 Dasboard Structure"
-    id="id-39cfd099e2754735998667ba8c605fc4"/>
+    id="id-39cfd099e2754735998667ba8c605fc4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-75cee366c4db4cd2b74855923b53452d">
+    <bounds
+        x="37"
+        y="59"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-0bb53839228d4310b3c5caf21dd52853.xml#id-0bb53839228d4310b3c5caf21dd52853"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5551e021512843808d56a0f47051f9ff">
+    <bounds
+        x="37"
+        y="142"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-ab77d24d516c40b7898e3c12c4e429e5.xml#id-ab77d24d516c40b7898e3c12c4e429e5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0beb466c09e644c9b931f21569a1984d">
+    <bounds
+        x="36"
+        y="223"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-df4ca7f502094ab186493f49b306b5a0.xml#id-df4ca7f502094ab186493f49b306b5a0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
