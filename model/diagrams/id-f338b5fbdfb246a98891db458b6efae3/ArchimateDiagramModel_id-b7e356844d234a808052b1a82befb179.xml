@@ -9,7 +9,7 @@
     <bounds
         x="60"
         y="96"
-        width="217"
+        width="193"
         height="37"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -91,9 +91,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-246c22a3c9a34b41877235d241488fd4">
     <bounds
-        x="276"
+        x="252"
         y="144"
-        width="205"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
