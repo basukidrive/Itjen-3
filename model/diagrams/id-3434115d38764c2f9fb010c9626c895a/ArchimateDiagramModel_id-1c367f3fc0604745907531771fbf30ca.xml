@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2 Application Cooperation"
-    id="id-1c367f3fc0604745907531771fbf30ca"/>
+    id="id-1c367f3fc0604745907531771fbf30ca">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4fe62e8d75a543c39fe12857f349244b">
+    <bounds
+        x="65"
+        y="49"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-01f1ede857df416caed3d7777bb6e06f.xml#id-01f1ede857df416caed3d7777bb6e06f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-608ec3b085934942b159f464344df044">
+    <bounds
+        x="348"
+        y="53"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-d252813032754ffd969dd94724575420.xml#id-d252813032754ffd969dd94724575420"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-97e9ab3ccd864578ae941406ecafb4b5">
+    <bounds
+        x="348"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-7a874d98ac2749c6a549b905bbb863b1.xml#id-7a874d98ac2749c6a549b905bbb863b1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
